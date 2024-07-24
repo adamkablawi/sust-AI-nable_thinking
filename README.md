@@ -1,2 +1,2 @@
-# sust-AI-nable_thinking
-A Machine Learning Algorithm Designed to Sort Different Types of Bags for Waste Management Automation
+# Sust-AI-Nable Thinking
+Hey! This is my machine learning algorithm I ahve designed for waste management classification and automation. In layman's terms, it sorts plastic, paper, and garbage bags into their own categories. This software can be used and applied to hardware such as waste cranes to pick up and drop each kind of waste into its own section where it can be recycled efficiently. These kinds of waste can be extremely harmful and disease-filled for labor, therefore it is both efficient and for the good of laborers to use such an algorithm to prevent health risk and automate waste management.
